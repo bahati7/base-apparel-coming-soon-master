@@ -179,12 +179,12 @@
 
     .img-hero-mobile img{
         padding-bottom: 2rem;
-        width: 70%;
+        width: 90%;
         display: block;
     }
 
     .text-content p{
-        font-size: 1rem;
+        font-size: 1.5rem;
         font-weight: 300;
         width: 35rem;
         margin: 1rem;
